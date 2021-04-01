@@ -9,3 +9,4 @@
 
 ## 其他
 - [code-server 使用小记](https://github.com/realfrancisyan/blog/issues/4)
+- [nginx 域名配置小记](https://github.com/realfrancisyan/blog/issues/5)
