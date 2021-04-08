@@ -13,3 +13,6 @@
 ## 其他
 - [code-server 使用小记](https://github.com/realfrancisyan/blog/issues/4)
 - [nginx 域名配置小记](https://github.com/realfrancisyan/blog/issues/5)
+
+## 一些值得一看的文章
+- [二维码扫码登录是什么原理你知道吗?](https://mp.weixin.qq.com/s/8tylCXiP8eS73kamtQ7Vdg)
