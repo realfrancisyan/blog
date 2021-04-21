@@ -1,6 +1,8 @@
 ## Vue
 - [Vue 基本用法和注意点](https://github.com/realfrancisyan/blog/issues/7)
 - [Vue 高级特性](https://github.com/realfrancisyan/blog/issues/8)
+- [Vuex 基本概念](https://github.com/realfrancisyan/blog/issues/9)
+- [Vue-router 使用](https://github.com/realfrancisyan/blog/issues/10)
 
 ## React
 - [实现一个微型 JSX 解析器](https://github.com/realfrancisyan/blog/issues/6)
