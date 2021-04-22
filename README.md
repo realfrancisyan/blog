@@ -3,6 +3,8 @@
 - [Vue 高级特性](https://github.com/realfrancisyan/blog/issues/8)
 - [Vuex 基本概念](https://github.com/realfrancisyan/blog/issues/9)
 - [Vue-router 使用](https://github.com/realfrancisyan/blog/issues/10)
+- [组件化基础](https://github.com/realfrancisyan/blog/issues/11)
+- [Vue 响应式](https://github.com/realfrancisyan/blog/issues/12)
 
 ## React
 - [实现一个微型 JSX 解析器](https://github.com/realfrancisyan/blog/issues/6)
