@@ -1,3 +1,6 @@
+## JavaScript
+-[虚拟 DOM（virtual dom）和 diff](https://github.com/realfrancisyan/blog/issues/13)
+
 ## Vue
 - [Vue 基本用法和注意点](https://github.com/realfrancisyan/blog/issues/7)
 - [Vue 高级特性](https://github.com/realfrancisyan/blog/issues/8)
