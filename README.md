@@ -1,6 +1,7 @@
 ## 虚拟 DOM
 - [虚拟 DOM（virtual dom）和 diff](https://github.com/realfrancisyan/blog/issues/13)
 - [虚拟 DOM - diff 算法概述](https://github.com/realfrancisyan/blog/issues/14)
+- [虚拟 DOM - diff 算法总结](https://github.com/realfrancisyan/blog/issues/15)
 
 ## Vue
 - [Vue 基本用法和注意点](https://github.com/realfrancisyan/blog/issues/7)
