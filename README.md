@@ -16,6 +16,7 @@
 - [Vue 响应式](https://github.com/realfrancisyan/blog/issues/12)
 - [Vue 代表性面试真题](https://github.com/realfrancisyan/blog/issues/20)
 - [Vue3 面试题](https://github.com/realfrancisyan/blog/issues/21)
+- [Proxy 实现响应式](https://github.com/realfrancisyan/blog/issues/22)
 
 ## React
 - [实现一个微型 JSX 解析器](https://github.com/realfrancisyan/blog/issues/6)
