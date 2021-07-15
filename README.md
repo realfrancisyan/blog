@@ -15,6 +15,7 @@
 - [组件化基础](https://github.com/realfrancisyan/blog/issues/11)
 - [Vue 响应式](https://github.com/realfrancisyan/blog/issues/12)
 - [Vue 代表性面试真题](https://github.com/realfrancisyan/blog/issues/20)
+- [Vue3 面试题](https://github.com/realfrancisyan/blog/issues/21)
 
 ## React
 - [实现一个微型 JSX 解析器](https://github.com/realfrancisyan/blog/issues/6)
